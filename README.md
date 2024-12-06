@@ -34,16 +34,16 @@ This repository demonstrates a basic **CRUD** web application built with **React
 
 #### Steps
 1. Clone the Laravel repository for BackEnd:
+   ```bash
+   git clone https://github.com/shohanislamjoy/laravel_table_view_api.git
    
-   [git clone https://github.com/your-username/react-laravel-crud.git](https://github.com/shohanislamjoy/laravel_table_view_api.git)
-
 2. Install dependencies:
    ```bash
    composer install
    ```
 3. Configure `.env`:
    ```plaintext
-   start Xampp and add give a name to database in env
+   start Xampp and give a name to the database in .env
 4. Run migrations and seeders:
    ```bash
    php artisan migrate 
@@ -139,7 +139,7 @@ This repository demonstrates a basic **CRUD** web application built with **React
    ```
 2. Start the frontend React server:
    ```bash
-   npm start
+   npm run dev
    ```
 3. Access the app at [http://localhost:3000](http://localhost:3000).
 
