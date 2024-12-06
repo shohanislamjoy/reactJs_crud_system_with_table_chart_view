@@ -4,6 +4,15 @@ This repository demonstrates a basic **CRUD** web application built with **React
 
 
 ---
+## Demo Video 
+
+https://github.com/user-attachments/assets/87bc01dc-874f-4ec2-9a18-39a088df015e
+
+
+
+
+
+---
 
 ## Features
 1. **Frontend (ReactJS)**:
