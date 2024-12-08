@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/87bc01dc-874f-4ec2-9a18-39a088df015e
 ## Features
 1. **Frontend (ReactJS)**:
    - Table visualization with editable rows for CRUD operations.
-   - Dynamic charts (line, bar, multi-axis) using `react-chartjs-2`.
+   - Dynamic charts (line, bar, multi-axis) using `Goolge-chart`.
    - Drop-down filters to customize chart data.
    - Progressive enhancement for JSON and SQL data models.
 
